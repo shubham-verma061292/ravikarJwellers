@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './../css/header.css'
+import './../css/home.css'
 import './../logo_new.jpg';
 export class Home extends Component {
   render() {
     return (
-      <div>
+      <div class="box mt20">
           <img src={require('./../logo_new.jpg')}  alt="logo" />
       </div>
     );
