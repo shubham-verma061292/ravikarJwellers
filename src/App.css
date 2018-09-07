@@ -55,3 +55,114 @@ label {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+[
+    {
+        "name": "Shubham",
+        "village": "Mak",
+        "typeofjwel": "Gold",
+        "weight": 10,
+        "amtPaid": 1090,
+        "debt": 0,
+        "phoneNo": 7007602415
+    },
+    {
+        "name": "Ravikar",
+        "village": "Nakti",
+        "typeofjwel": "Silver",
+        "weight": 500,
+        "amtPaid": 90,
+        "debt": 0,
+        "phoneNo": 8910573402
+    },
+    {
+        "name": "Dev",
+        "village": "Mak",
+        "typeofjwel": "Gold",
+        "weight": 10,
+        "amtPaid": 2090,
+        "debt": 5670,
+        "phoneNo": 2312389789
+    },
+    {
+        "name": "Suman",
+        "village": "Mak",
+        "typeofjwel": "Gold",
+        "weight": 10,
+        "amtPaid": 390,
+        "debt": 1000,
+        "phoneNo": 7007602415
+    },
+    {
+        "name": "Dev",
+        "village": "Jind",
+        "typeofjwel": "Diamond",
+        "weight": 1,
+        "amtPaid": 2090,
+        "debt": 0,
+        "phoneNo": 9812323456
+    },
+    {
+        "name": "Ravikar",
+        "village": "Nakti",
+        "typeofjwel": "Silver",
+        "weight": 500,
+        "amtPaid": 890,
+        "debt": 290,
+        "phoneNo": 6578678540
+    },
+    {
+        "name": "Radhe",
+        "village": "Mak",
+        "typeofjwel": "Iron",
+        "weight": 10,
+        "amtPaid": 678,
+        "debt": 1897,
+        "phoneNo": 9812323456
+    },
+    {
+        "name": "Pooja",
+        "village": "Mak",
+        "typeofjwel": "Platinum",
+        "weight": 10,
+        "amtPaid": 979,
+        "debt": 7890,
+        "phoneNo": 7007602415
+    },
+    {
+        "name": "Nidhi",
+        "village": "Jind",
+        "typeofjwel": "Diamond",
+        "weight": 1,
+        "amtPaid": 0,
+        "debt": 790,
+        "phoneNo": 8976788790
+    },
+    {
+        "name": "Ram",
+        "village": "Mak",
+        "typeofjwel": "Gold",
+        "weight": 90,
+        "amtPaid": 788,
+        "debt": 890,
+        "phoneNo": 9812323456
+    },
+    {
+        "name": "Radha",
+        "village": "Mak",
+        "typeofjwel": "Gold",
+        "weight": 10,
+        "amtPaid": 890,
+        "debt": 900,
+        "phoneNo": 7007602415
+    },
+    {
+        "name": "Sita",
+        "village": "Sitapur",
+        "typeofjwel": "Plantinum",
+        "weight": 9,
+        "phoneNo": 8976788790,
+        "amtPaid": 345,
+        "debt": 7890
+    }
+]
