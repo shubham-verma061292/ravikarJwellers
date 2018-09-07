@@ -9,14 +9,12 @@
   color: white;
 }
 
-.title {
-  font-size: 1.5em;
-}
+
 
 .center {
   margin : auto;
   width: 50%;
-  border: 1px solid grey;
+  border: 1px solid;
   padding: 20px;
 }
 
@@ -24,10 +22,33 @@
   margin : auto;
   margin-left: 50%;
   padding: 10px; 
+  align-content: center
 }
 
+.inputBox, .selectBox {
+  width: 80%;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+}
+
+.col25 {  float: left;  width: 25%;  margin-top: 6px;}
+.col75 {  float: left;  width: 75%;  margin-top: 6px;}
+
+.floatLeft{float: left}
+.floatRight{float : right}
+.clearPadding {padding:0}
+.p3{  padding: 3px;}
+.contentDiv{background-color: #ffffff;font:opensans-regular 16px #414141; border: 1px solid #B3B3B3; padding: 24px 15px;}
+.ftSize {font-size: 1.2em;}
+
 .mT10{ margin-top: 10px}
+.mL10{margin-left: 10px}
 .bFont{ font-weight: bold;}
+label {
+  display: inline;
+}
 
 
 @keyframes App-logo-spin {
